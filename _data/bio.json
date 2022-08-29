@@ -10,22 +10,23 @@
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "junkim1519", "url": "http://github.com/junkim1519" },
-      { "network": "linkedin", "username": "junkim", "url": "http://linkedin.com/in/jun-kim-ab482a132" }
+      { "network": "linkedin", "username": "junkim1519", "url": "http://linkedin.com/in/jun-kim-ab482a132" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
+    { "name": "Web Development"},
     { "name": "Data Science" },
     { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python", "Javascript", "Assembly" ]
+      "keywords": [ "C", "C++", "Java", "Python", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub"]
     }
   ],
   "education": [
@@ -37,19 +38,29 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+    {
+      "institution": "Chapman University, Orange, CA",
+      "area": "Business Administration, Economics",
+      "studyType": "B.S.",
+      "startDate": "2015-08-01",
+      "endDate": "2018-12-01",
+      "courses": [
+      ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Visa",
+      "position": "Software Engineer Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-05-25",
+      "endDate": "2022-08-19",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed a tool using JavaScript to test partners’ SDKs with Visa’s Click-to-Pay API. Used HTML to design a user-friendly testing interface, and NodeJS and Express to handle API calls on the back-end",
+        "Made improvements to a ReactJS app used for modifying metadata properties of Visa Checkout. Updated deprecated modules, redesigned the UI, and implemented robust error checking methods",
+        "Recreated a back-end Java OTP generator into a standalone web tool, simplifying the testing workflow by eliminating the need to manually retrieve the OTP from an email account"
       ]
     },
     {
