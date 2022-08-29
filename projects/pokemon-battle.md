@@ -17,8 +17,8 @@ summary: "A game where you can build your own Pokemon team and play against the 
 This is an alternating-turn game I developed in Java where the user can build a custom team of Pokemon and battle against the computer.  It was my first project that uses a GUI instead of being purely text-based.
 
 This project demonstrates:
-- Creating a custom Pokemon class to represent Pokemon, including get and set methods **(Pokemon.java)**
-- Creating a custom "PokemonException" exception class **(PokemonException.java)**
+- Creating a custom Pokemon class to represent Pokemon, including get and set methods
+- Creating a custom "PokemonException" exception class
 - Use of GUI tools including java.awt and javax.swing
   - Buttons and ActionListeners
   - Drop-down menus
