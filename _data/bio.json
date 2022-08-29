@@ -53,7 +53,7 @@
     {
       "company": "Visa",
       "position": "Software Engineer Intern",
-      "website": "",
+      "website": "http://wwww.visa.com",
       "startDate": "2022-05-25",
       "endDate": "2022-08-19",
       "summary": "",
@@ -64,62 +64,49 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Viant Technology",
+      "position": "Inventory Partner Analyst",
+      "website": "https://www.viantinc.com/",
+      "startDate": "2020-02-01",
+      "endDate": "2021-08-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Wrote complex SQL queries in Google BigQuery using tables containing up to 20 billion rows to derive insights about ad inventory quality and overall company performance",
+        "Created and deployed a quantitative rating methodology to assign a “quality score” to each programmatic ad auction received, using factors such as historical fraud rates, user information, and viewability metrics",
+        "Conducted linear regression analysis on the relationship between the bid price and win rate of open market auctions to advise the Engineering/Product department in the construction of their bidding algorithm",
+        "Utilized Tableau to create data visualizations and reporting for C-Suite management on a variety of topics including KPI measurement, user identities and segments, and bot fraud",
+        "Held Quarterly Business Reviews with supply partners to compare performance metrics and discuss opportunities to further optimize the business relationship"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "company": "Fieldman, Rolapp & Associates",
+      "position": "Associate",
+      "website": "https://www.fieldman.com/",
+      "startDate": "2019-6-01",
+      "endDate": "2020-02-01",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Worked with the Cities and Counties team to advise government entities on issuing debt securities, refinancing prior bonds, and developing operating and capital budgets",
+        "Built Excel models analyzing financing scenarios under various economic and interest rate conditions",
+        "Utilized Bloomberg and Thompson Reuters to extract financial data and gauge market sentiment for use in financial models as key inputs and assumptions",
+        "Prepared credit presentations for rating agencies by compiling financial, statistical, and operating data of municipal entities and providing a high-level overview of the securities to be issued"
+      ]
+    },
+    {
+      "company": "Whittier Trust",
+      "position": "Investment Analyst Intern",
+      "website": "https://www.whittiertrust.com/",
+      "startDate": "2018-6-01",
+      "endDate": "2018-08-01",
+      "summary": "",
+      "highlights": [
+        "Analyzed financial statements and industry-specific research utilizing FactSet and Bloomberg to prepare presentation material on historical performance, financial data, and expected future performance",
+        "Used investment research reports and investor presentations to analyze the US energy sector, including specific companies, to help determine an optimal investment strategy",
+        "Built Excel models analyzing various strategies employing derivative securities, including put and call options"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
+  "volunteer": [],
+  "awards": [],
+  "references": []
 }
