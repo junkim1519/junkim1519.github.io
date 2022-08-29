@@ -13,6 +13,9 @@ labels:
   - GitHub
 summary: "A data science project that analyzes COVID-19 deaths"
 ---
+
+<img class="img-fluid" src="../img/covid_banner.jpeg">
+
 This is a data science project that examines the factors that cause a COVID-19 case to result in a death. The dataset is a sample taken from the CDC: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
 
 This project demonstrates:
