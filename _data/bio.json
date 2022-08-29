@@ -53,7 +53,7 @@
     {
       "company": "Visa",
       "position": "Software Engineer Intern",
-      "website": "http://wwww.visa.com",
+      "website": "http://www.visa.com",
       "startDate": "2022-05-25",
       "endDate": "2022-08-19",
       "summary": "",
@@ -66,7 +66,7 @@
     {
       "company": "Viant Technology",
       "position": "Inventory Partner Analyst",
-      "website": "https://www.viantinc.com/",
+      "website": "https://www.viantinc.com",
       "startDate": "2020-02-01",
       "endDate": "2021-08-01",
       "summary": "",
@@ -81,7 +81,7 @@
     {
       "company": "Fieldman, Rolapp & Associates",
       "position": "Associate",
-      "website": "https://www.fieldman.com/",
+      "website": "https://www.fieldman.com",
       "startDate": "2019-6-01",
       "endDate": "2020-02-01",
       "summary": "",
@@ -95,7 +95,7 @@
     {
       "company": "Whittier Trust",
       "position": "Investment Analyst Intern",
-      "website": "https://www.whittiertrust.com/",
+      "website": "https://www.whittiertrust.com",
       "startDate": "2018-6-01",
       "endDate": "2018-08-01",
       "summary": "",
@@ -106,7 +106,4 @@
       ]
     }
   ],
-  "volunteer": [],
-  "awards": [],
-  "references": []
 }
