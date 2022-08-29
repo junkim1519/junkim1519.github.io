@@ -11,6 +11,9 @@ labels:
   - GitHub
 summary: "A game where you can build your own Pokemon team and play against the computer"
 ---
+
+<img class="img-fluid" src="../img/pokemon_banner.jpeg">
+
 This is an alternating-turn game I developed in Java where the user can build a custom team of Pokemon and battle against the computer.  It was my first project that uses a GUI instead of being purely text-based.
 
 This project demonstrates:
