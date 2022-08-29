@@ -28,6 +28,6 @@ This project demonstrates:
 - Writing and saving files
 - Proper JavaDoc comments and documentation
 
-I learned a lot about using GUI libraries and using GUI elements like buttons, text areas, and UI design.  I was also able to integrate many core computer science and Java concepts like using classes, objects, ArrayLists, and custom exception classes.
+I learned a lot about using GUI libraries and GUI elements like buttons, text areas, and UI design.  I was also able to integrate many core computer science and Java concepts like using classes, objects, ArrayLists, and custom exception classes.
 
 Source: <a href="https://github.com/junkim1519/PokemonGame"><i class="large github icon "></i>junkim1519/PokemonGame</a>
