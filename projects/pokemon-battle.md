@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/pokemon.jpeg
 title: "Pokemon Battle"
 date: 2022-02-01
 published: true
@@ -14,7 +14,7 @@ summary: "A game where you can build your own Pokemon team and play against the 
 
 <img class="img-fluid" src="../img/pokemon.jpeg">
 
-This is an alternating-turn game I developed in Java where the user can build a custom team of Pokemon and battle against the computer.  It was my first project that uses a GUI instead of being text-based.
+This is an alternating-turn game I developed in Java where the user can build a custom team of Pokemon and battle against the computer.  It was my first project that uses a GUI instead of being purely text-based.
 
 This project demonstrates:
 - Creating a custom Pokemon class to represent Pokemon, including get and set methods **(Pokemon.java)**
