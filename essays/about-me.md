@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Professional Statement"
+title: "About Me"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
 published: true
