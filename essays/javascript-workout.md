@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Reflection on Learning JavaScript"
+title: "Working Out in JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
 published: true
