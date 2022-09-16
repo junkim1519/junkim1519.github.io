@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "An Overlooked Aspect of Coding"
 # All dates must be YYYY-MM-DD format!
-date: 2022-08-31
+date: 2022-09-22
 published: true
 labels:
 
