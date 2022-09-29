@@ -5,7 +5,7 @@ title: "Why Learn UI Frameworks?"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
 published: true
-labels: Bootstrap, UI
+labels: Bootstrap
 
 ---
 
