@@ -17,3 +17,6 @@ The main benefit of UI frameworks is that much of the styling has been done for 
 
 ## When to use a UI framework
 I believe it is most beneficial to use a framework when you don't have a strict design to follow and can rely on predetermined styling and design choices.  Doing this can greatly speed up the development of a webpage.  However, when webpages become more customized and there is a strict "vision" you need to follow, it may be better to switch back to plain HTML and CSS, and perhaps only use the framework for broad, top-level design.
+
+### An example of a page recreated using Bootstrap:
+<img class="img-fluid" src="../img/bootstrap-example.png">
