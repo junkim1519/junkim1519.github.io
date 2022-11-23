@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: "How to be Lazy"
 # All dates must be YYYY-MM-DD format!
-date: 2022-12-01
+date: 2023-12-01
 published: true
 labels:
 
 ---
 
-<img width=500 src="https://12ax7web.s3.amazonaws.com/accounts/1/products/imported/im-energy-efficient-teeturtle-1000x1000.png"/>
+<img width=500 "../img/lazy.png"/>
 
 ## When should you be lazy?
 Imagine you are a homebuilder.  You have been assigned to design and build 25 near-identical homes in a newly renovated area.  This is a major project and your big break to prove to your bosses that you are a hardworking individual and can get the job done.  You get started right away assembling the team to build the first house.  It takes three months to plan the design of the first house and one more year to order materials, tools, and completely finish construction.   Hooray! The first house is done, and you have 24 more to go.  As you get started on planning the design of the second house, one of the workers brings up a point: don't all the houses follow the same design?  Why are we redoing this part again?  This is unnecessary work!
