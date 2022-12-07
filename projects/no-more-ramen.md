@@ -13,7 +13,7 @@ labels:
 summary: "A recipe site where students can look up recipes and vendors can advertise their ingredients"
 ---
 
-<img class="img-fluid" src="../img/no-more-ramen.png">
+<img class="img-fluid" src="../img/ramen-cover.png">
 
 College students are often low on cash and have limited experience cooking and preparing meals.  This often leads to students eating meals that are quick to make but are low in nutritional content.  This can affect their focus, energy, and quality of academic studying.
 
