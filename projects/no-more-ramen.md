@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ramen-cover.jpeg
+image: img/ramen-cover.png
 title: "No More Ramen"
 date: 2022-12-11
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A recipe site where students can look up recipes and vendors can advertise their ingredients"
 ---
 
-<img class="img-fluid" src="../img/no-more-ramen.jpeg">
+<img class="img-fluid" src="../img/no-more-ramen.png">
 
 College students are often low on cash and have limited experience cooking and preparing meals.  This often leads to students eating meals that are quick to make but are low in nutritional content.  This can affect their focus, energy, and quality of academic studying.
 
@@ -27,4 +27,11 @@ My contribution to this project was creating an individual recipe page that disp
 
 I learned a lot about the integegration of the front-end of a website and the back-end.  On the front-end, I had to design an easy-to-use UI that accepted data from the user and sent it to the server.  On the backend, I used MongoDB to store recipe and ingredient data, and sent it to the front-end whenever necessary.
 
+Snapshots of the application are below:
+<img class="img-fluid" src="../img/nomoreramen-sample1.png">
+<hr>
+<img class="img-fluid" src="../img/nomoreramen-sample2.png">
+<hr>
+<img class="img-fluid" src="../img/nomoreramen-sample3.png">
+<hr>
 Source: <a href="https://no-more-ramen.github.io/"><i class="large github icon "></i>no-more-ramen</a>
