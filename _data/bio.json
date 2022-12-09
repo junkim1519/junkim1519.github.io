@@ -1,0 +1,109 @@
+{
+  "basics": {
+    "name": "Jun Kim",
+    "label": "Student",
+    "picture": "https://github.com/junkim1519.png",
+    "email": "junkim1519@gmail.com",
+    "phone": "808-398-2541",
+    "website": "https://junkim1519.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in May 2023 and am looking to start a career in software engineering.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "junkim1519", "url": "http://github.com/junkim1519" },
+      { "network": "linkedin", "username": "junkim1519", "url": "http://linkedin.com/in/jun-kim-ab482a132" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Web Development"},
+    { "name": "Data Science" },
+    { "name": "Machine Learning" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Python", "Javascript"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected May 2023)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Chapman University, Orange, CA",
+      "area": "Business Administration, Economics",
+      "studyType": "B.S.",
+      "startDate": "2015-08-01",
+      "endDate": "2018-12-01",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Visa",
+      "position": "Software Engineer Intern",
+      "website": "http://www.visa.com",
+      "startDate": "2022-05-25",
+      "endDate": "2022-08-19",
+      "summary": "",
+      "highlights": [
+        "Developed a tool using JavaScript to test partners’ SDKs with Visa’s Click-to-Pay API. Used HTML to design a user-friendly testing interface, and NodeJS and Express to handle API calls on the back-end",
+        "Made improvements to a ReactJS app used for modifying metadata properties of Visa Checkout. Updated deprecated modules, redesigned the UI, and implemented robust error checking methods",
+        "Recreated a back-end Java OTP generator into a standalone web tool, simplifying the testing workflow by eliminating the need to manually retrieve the OTP from an email account"
+      ]
+    },
+    {
+      "company": "Viant Technology",
+      "position": "Inventory Partner Analyst",
+      "website": "https://www.viantinc.com",
+      "startDate": "2020-02-01",
+      "endDate": "2021-08-01",
+      "summary": "",
+      "highlights": [
+        "Wrote complex SQL queries in Google BigQuery using tables containing up to 20 billion rows to derive insights about ad inventory quality and overall company performance",
+        "Created and deployed a quantitative rating methodology to assign a “quality score” to each programmatic ad auction received, using factors such as historical fraud rates, user information, and viewability metrics",
+        "Conducted linear regression analysis on the relationship between the bid price and win rate of open market auctions to advise the Engineering/Product department in the construction of their bidding algorithm",
+        "Utilized Tableau to create data visualizations and reporting for C-Suite management on a variety of topics including KPI measurement, user identities and segments, and bot fraud",
+        "Held Quarterly Business Reviews with supply partners to compare performance metrics and discuss opportunities to further optimize the business relationship"
+      ]
+    },
+    {
+      "company": "Fieldman, Rolapp & Associates",
+      "position": "Associate",
+      "website": "https://www.fieldman.com",
+      "startDate": "2019-6-01",
+      "endDate": "2020-02-01",
+      "summary": "",
+      "highlights": [
+        "Worked with the Cities and Counties team to advise government entities on issuing debt securities, refinancing prior bonds, and developing operating and capital budgets",
+        "Built Excel models analyzing financing scenarios under various economic and interest rate conditions",
+        "Utilized Bloomberg and Thompson Reuters to extract financial data and gauge market sentiment for use in financial models as key inputs and assumptions",
+        "Prepared credit presentations for rating agencies by compiling financial, statistical, and operating data of municipal entities and providing a high-level overview of the securities to be issued"
+      ]
+    },
+    {
+      "company": "Whittier Trust",
+      "position": "Investment Analyst Intern",
+      "website": "https://www.whittiertrust.com",
+      "startDate": "2018-6-01",
+      "endDate": "2018-08-01",
+      "summary": "",
+      "highlights": [
+        "Analyzed financial statements and industry-specific research utilizing FactSet and Bloomberg to prepare presentation material on historical performance, financial data, and expected future performance",
+        "Used investment research reports and investor presentations to analyze the US energy sector, including specific companies, to help determine an optimal investment strategy",
+        "Built Excel models analyzing various strategies employing derivative securities, including put and call options"
+      ]
+    }
+  ],
+}

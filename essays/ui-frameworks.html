@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Why Learn UI Frameworks? | Jun Kim | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/junkim1519.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jun Kim | Professional Portfolio">
+    <meta property="og:url" content="https://junkim1519.github.io/essays/ui-frameworks.html">
+    <meta property="og:title" content="Why Learn UI Frameworks? | Jun Kim | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/junkim1519.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Why Learn UI Frameworks? | Jun Kim | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jun Kim</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Why Learn UI Frameworks?</h1>
+  <span class="date">06 Oct 2022</span>
+  <hr>
+  <h2 id="bootstrap">Bootstrap</h2>
+<p>Learning Bootstrap has been an two-sided process for me.  On one hand, mundane CSS tasks (like centering an element or setting colors) are automated away by simply adding a class name.  This makes for a much cleaner CSS style sheet and less time stressing over details like why your containers aren’t perfectly aligned.  On the other hand, there is a steep learning curve, and using Bootstrap effectively requires that you actualy understand how each element works.  If you do not, this can lead to unexpected behavior and potentially make your project even more complicated.</p>
+
+<h2 id="pros-and-cons">Pros and cons</h2>
+<p>The main benefit of UI frameworks is that much of the styling has been done for you.  This can greatly speed up the process of building a webpage so that you can focus on other tasks.  However, a drawback is that some flexibility is also lost since you must stick to the conventions that the UI framework implements.  For example, in my rebuild of 7 Leaves Cafe’s website, I had a difficult time implementing a hover-based dropdown in the navbar using Bootstrap.  When looking further in the documentation, I discovered that it was an intentional design decision by the Bootstrap team to only implement click-based dropdowns.  What I ended up having to do was disable the default Bootstrap behavior and implement my own hover-based dropdown.  Another drawback to consider is that using a UI framework well requires deep knowledge of how each component works.  There have been several instances where I implement several Bootstrap classes only for none of the styling to show up.  This required me to dig deep into the Bootstrap documentation and figure out why I was using their classes incorrectly and how to fix it.</p>
+
+<h2 id="when-to-use-a-ui-framework">When to use a UI framework</h2>
+<p>I believe it is most beneficial to use a framework when you don’t have a strict design to follow and can rely on predetermined styling and design choices.  Doing this can greatly speed up the development of a webpage.  However, when webpages become more customized and there is a strict “vision” you need to follow, it may be better to switch back to plain HTML and CSS, and perhaps only use the framework for broad, top-level design.</p>
+
+<h3 id="an-example-of-a-page-recreated-using-bootstrap">An example of a page recreated using Bootstrap:</h3>
+<p><img class="img-fluid" src="../img/bootstrap-example.png" /></p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
