@@ -59,7 +59,6 @@
       "summary": "",
       "highlights": [
         "Developed a tool using JavaScript to test partners’ SDKs with Visa’s Click-to-Pay API. Used HTML to design a user-friendly testing interface, and NodeJS and Express to handle API calls on the back-end",
-        "Made improvements to a ReactJS app used for modifying metadata properties of Visa Checkout. Updated deprecated modules, redesigned the UI, and implemented robust error checking methods",
         "Recreated a back-end Java OTP generator into a standalone web tool, simplifying the testing workflow by eliminating the need to manually retrieve the OTP from an email account"
       ]
     },
