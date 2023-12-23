@@ -14,8 +14,8 @@
     ]
   },
   "interests": [
+    { "name": "Quantitative Finance" },
     { "name": "Software Engineering" },
-    { "name": "Web Development"},
     { "name": "Data Science" },
     { "name": "Machine Learning" }
   ],
@@ -32,10 +32,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected May 2023)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2021-08-01",
-      "endDate": "Present",
+      "endDate": "2023-05-01",
       "courses": [
       ]
     },
@@ -50,6 +50,18 @@
     }
   ],
   "work": [
+     {
+      "company": "Visa",
+      "position": "Software Engineer",
+      "website": "http://www.visa.com",
+      "startDate": "2023-06-06",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Developed a front-end application using ReactJS that allowed customers to use biometrics (such as Touch ID or Face ID) to authorize payments and make online purchases via Visa’s Click-To-Pay API",
+        "Recreated a back-end Java OTP generator into a standalone web tool, simplifying the testing workflow by eliminating the need to manually retrieve the OTP from an email account"
+      ]
+    },
     {
       "company": "Visa",
       "position": "Software Engineer Intern",
@@ -58,8 +70,7 @@
       "endDate": "2022-08-19",
       "summary": "",
       "highlights": [
-        "Developed a tool using JavaScript to test partners’ SDKs with Visa’s Click-to-Pay API. Used HTML to design a user-friendly testing interface, and NodeJS and Express to handle API calls on the back-end",
-        "Recreated a back-end Java OTP generator into a standalone web tool, simplifying the testing workflow by eliminating the need to manually retrieve the OTP from an email account"
+        "Built a ReactJS web app used for modifying metadata properties of Visa Checkout.  Updated deprecated modules, redesigned the UI, and wrote comprehensive test cases"        
       ]
     },
     {
