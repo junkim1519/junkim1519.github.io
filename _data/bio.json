@@ -14,15 +14,15 @@
     ]
   },
   "interests": [
-    { "name": "Quantitative Finance" },
     { "name": "Software Engineering" },
     { "name": "Data Science" },
+    { "name": "Web Development" },
     { "name": "Machine Learning" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Python", "Javascript"]
+      "keywords": [ "Java", "Javascript", "Python", "C++", "C"]
     },
     {
       "name": "Toolsets/OS",
@@ -58,8 +58,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Developed a front-end application using ReactJS that allowed customers to use biometrics (such as Touch ID or Face ID) to authorize payments and make online purchases via Visa’s Click-To-Pay API",
-        "Recreated a back-end Java OTP generator into a standalone web tool, simplifying the testing workflow by eliminating the need to manually retrieve the OTP from an email account"
+        "Created a batch job application to process over 120 million payment instruments; encrypted and decrypted sensitive account information, generated unique hashes for each card, and updated database values",
+        "Developed a front-end application using ReactJS and NextJS that allowed consumers to use biometrics (such as Touch ID or Face ID) to authorize payments and make online purchases",
+        "Enhanced the performance of an existing batch job by incorporating multithreading for parallel processing and removing redundant database queries, which resulted in a 5x improvement in processing speed",
+        "Added features to a Java API to enable banks to enroll customers in Visa’s Click-To-Pay product. Utilized the Spring Boot framework, including Java Persistence API to interact with SQL databases"
       ]
     },
     {
@@ -70,7 +72,8 @@
       "endDate": "2022-08-19",
       "summary": "",
       "highlights": [
-        "Built a ReactJS web app used for modifying metadata properties of Visa Checkout.  Updated deprecated modules, redesigned the UI, and wrote comprehensive test cases"        
+        "Built a ReactJS web app used for modifying metadata properties of Visa Checkout. Updated deprecated modules, redesigned the UI, and wrote comprehensive test cases",
+        "Recreated a back-end One-Time-Password generator into a standalone web tool, simplifying the testing workflow by eliminating the need to manually retrieve the password from an email account"
       ]
     },
     {
