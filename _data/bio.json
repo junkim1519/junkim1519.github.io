@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Jun Kim",
+    "label": "Student",
+    "picture": "https://github.com/junkim1519.png",
+    "email": "junkim1519@gmail.com",
+    "phone": "808-398-2541",
+    "website": "https://junkim1519.github.io",
+    "summary": "Software Engineer at Visa.<br>B.S. in Computer Science from the University of Hawaii at Manoa.<br>B.S. in Business Administration from Chapman University.<br>B.A. in Economics from Chapman University.",
+    "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "junkim1519", "url": "http://github.com/junkim1519" },
+      { "network": "linkedin", "username": "junkim1519", "url": "http://linkedin.com/in/jun-kim-ab482a132" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Data Science" },
+    { "name": "Web Development" },
+    { "name": "Machine Learning" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "Java", "Javascript", "Python", "C++", "C"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2021-08-01",
+      "endDate": "2023-05-01",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Chapman University, Orange, CA",
+      "area": "Business Administration, Economics",
+      "studyType": "B.S.",
+      "startDate": "2015-08-01",
+      "endDate": "2018-12-01",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+     {
+      "company": "Visa",
+      "position": "Software Engineer",
+      "website": "http://www.visa.com",
+      "startDate": "2023-06-06",
+      "endDate": "2024-07-19",
+      "summary": "",
+      "highlights": [
+        "Created a batch job application to process over 120 million payment instruments; encrypted and decrypted sensitive account information, generated unique hashes for each card, and updated database values",
+        "Developed a front-end application using ReactJS and NextJS that allowed consumers to use biometrics (such as Touch ID or Face ID) to authorize payments and make online purchases",
+        "Enhanced the performance of an existing batch job by incorporating multithreading for parallel processing and removing redundant database queries, which resulted in a 5x improvement in processing speed",
+        "Added features to a Java API to enable banks to enroll customers in Visa’s Click-To-Pay product. Utilized the Spring Boot framework, including Java Persistence API to interact with SQL databases"
+      ]
+    },
+    {
+      "company": "Visa",
+      "position": "Software Engineer Intern",
+      "website": "http://www.visa.com",
+      "startDate": "2022-05-25",
+      "endDate": "2022-08-19",
+      "summary": "",
+      "highlights": [
+        "Built a ReactJS web app used for modifying metadata properties of Visa Checkout. Updated deprecated modules, redesigned the UI, and wrote comprehensive test cases",
+        "Recreated a back-end One-Time-Password generator into a standalone web tool, simplifying the testing workflow by eliminating the need to manually retrieve the password from an email account"
+      ]
+    },
+    {
+      "company": "Viant Technology",
+      "position": "Inventory Partner Analyst",
+      "website": "https://www.viantinc.com",
+      "startDate": "2020-02-01",
+      "endDate": "2021-08-01",
+      "summary": "",
+      "highlights": [
+        "Wrote complex SQL queries in Google BigQuery using tables containing up to 20 billion rows to derive insights about ad inventory quality and overall company performance",
+        "Created and deployed a quantitative rating methodology to assign a “quality score” to each programmatic ad auction received, using factors such as historical fraud rates, user information, and viewability metrics",
+        "Conducted linear regression analysis on the relationship between the bid price and win rate of open market auctions to advise the Engineering/Product department in the construction of their bidding algorithm",
+        "Utilized Tableau to create data visualizations and reporting for C-Suite management on a variety of topics including KPI measurement, user identities and segments, and bot fraud",
+        "Held Quarterly Business Reviews with supply partners to compare performance metrics and discuss opportunities to further optimize the business relationship"
+      ]
+    },
+    {
+      "company": "Fieldman, Rolapp & Associates",
+      "position": "Associate",
+      "website": "https://www.fieldman.com",
+      "startDate": "2019-6-01",
+      "endDate": "2020-02-01",
+      "summary": "",
+      "highlights": [
+        "Worked with the Cities and Counties team to advise government entities on issuing debt securities, refinancing prior bonds, and developing operating and capital budgets",
+        "Built Excel models analyzing financing scenarios under various economic and interest rate conditions",
+        "Utilized Bloomberg and Thompson Reuters to extract financial data and gauge market sentiment for use in financial models as key inputs and assumptions",
+        "Prepared credit presentations for rating agencies by compiling financial, statistical, and operating data of municipal entities and providing a high-level overview of the securities to be issued"
+      ]
+    },
+    {
+      "company": "Whittier Trust",
+      "position": "Investment Analyst Intern",
+      "website": "https://www.whittiertrust.com",
+      "startDate": "2018-6-01",
+      "endDate": "2018-08-01",
+      "summary": "",
+      "highlights": [
+        "Analyzed financial statements and industry-specific research utilizing FactSet and Bloomberg to prepare presentation material on historical performance, financial data, and expected future performance",
+        "Used investment research reports and investor presentations to analyze the US energy sector, including specific companies, to help determine an optimal investment strategy",
+        "Built Excel models analyzing various strategies employing derivative securities, including put and call options"
+      ]
+    }
+  ],
+}
