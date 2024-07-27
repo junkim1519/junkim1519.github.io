@@ -98,7 +98,7 @@ layout: home
               {% endif %}
               {% if entry.endDate %}
                 {% if entry.endDate != "Present" %}
-                  {{ entry.endDate | slice: 0,4 }}
+                  {{ entry.endDate | date: "%B %Y" }}
                 {% else %}
                   {{ entry.endDate }}
                 {% endif %}
@@ -141,7 +141,7 @@ layout: home
                 {% endif %}
                 {% if entry.endDate %}
                 {% if entry.endDate != "Present" %}
-                  {{ entry.endDate | slice: 0,4 }}
+                  {{ entry.endDate | date: "%B %Y" }}
                 {% else %}
                   {{ entry.endDate }}
                 {% endif %}
