@@ -6,7 +6,7 @@
     "email": "junkim1519@gmail.com",
     "phone": "808-398-2541",
     "website": "https://junkim1519.github.io",
-    "summary": "Software Engineer at Visa.<br>B.S. in Computer Science from the University of Hawaii at Manoa.<br>B.S. in Business Administration from Chapman University.<br>B.A. in Economics from Chapman University",
+    "summary": "Software Engineer at Visa.<br>B.S. in Computer Science from the University of Hawaii at Manoa.<br>B.S. in Business Administration from Chapman University.<br>B.A. in Economics from Chapman University.",
     "location": { "address": "", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "junkim1519", "url": "http://github.com/junkim1519" },
@@ -55,7 +55,7 @@
       "position": "Software Engineer",
       "website": "http://www.visa.com",
       "startDate": "2023-06-06",
-      "endDate": "Present",
+      "endDate": "2024-07-19",
       "summary": "",
       "highlights": [
         "Created a batch job application to process over 120 million payment instruments; encrypted and decrypted sensitive account information, generated unique hashes for each card, and updated database values",
