@@ -91,14 +91,14 @@ layout: home
           <div class="col-3">
             <p class="m-0 text-end">
               {% if entry.startDate %}
-                {{ entry.startDate | slice: 0,4 }}
+                {{ entry.startDate | date: "%b %Y" }}
               {% endif %}
               {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
               -
               {% endif %}
               {% if entry.endDate %}
                 {% if entry.endDate != "Present" %}
-                  {{ entry.endDate | date: "%B %Y" }}
+                  {{ entry.endDate | date: "%b %Y" }}
                 {% else %}
                   {{ entry.endDate }}
                 {% endif %}
@@ -141,7 +141,7 @@ layout: home
                 {% endif %}
                 {% if entry.endDate %}
                 {% if entry.endDate != "Present" %}
-                  {{ entry.endDate | date: "%B %Y" }}
+                  {{ entry.endDate | date: "%b %Y" }}
                 {% else %}
                   {{ entry.endDate }}
                 {% endif %}
@@ -177,7 +177,7 @@ layout: home
             <div class="col-3">
               <p class="m-0 text-end">
                 {% if entry.startDate %}
-                  {{ entry.startDate | slice: 0,4 }}
+                  {{ entry.startDate | date: "%b %Y" }}
                 {% endif %}
                 {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
                 -
