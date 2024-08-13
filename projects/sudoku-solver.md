@@ -20,6 +20,6 @@ This tool also allows the process to be visualized to better understand it.  Sel
 
 Although inefficient, this program taught me a lot about recursion and its ability to elegantly solve certain problems.  In particular, it was able to solve a very difficult puzzle (one that might normally take someone a few hours) in only a few seconds using relatively few lines of code.  Implementing the visualization also taught me a lot about asynchrous functions and delaying program actions.
 
-Try the tool out here: https://junk5illinois.github.io
+Try the tool out here: [https://junk5illinois.github.io](https://junk5illinois.github.io)
 
 Source: <a href="https://github.com/junkim1519/sudokuSolver"><i class="large github icon "></i>junkim1519/sudokuSolver</a>
