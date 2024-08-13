@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="An Overlooked Aspect of Coding | Jun Kim | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/junkim1519.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Jun Kim | Professional Portfolio">
+    <meta property="og:url" content="https://junkim1519.github.io/essays/coding-standards.html">
+    <meta property="og:title" content="An Overlooked Aspect of Coding | Jun Kim | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/junkim1519.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>An Overlooked Aspect of Coding | Jun Kim | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Jun Kim</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">An Overlooked Aspect of Coding</h1>
+  <span class="date">22 Sep 2022</span>
+  <hr>
+  <h2 id="why-follow-a-coding-standard">Why follow a coding standard?</h2>
+<p>Software engineers often emphasize efficiency and robustness as hallmarks of great code, but there is one aspect that is often overlooked: readability.  Code that seems efficient because it is packed into few lines but is also unreadable is of little use to anybody.  Projects are often handed off to different teams, and unclear code makes this transition very difficult.  It also hurts yourself, because when you inevitably have to revisit your code a few months later to make updates, it will be very hard to decipher what you wrote.  One way to help fix this problem is to follow a strict coding standard.  Standardizing the style in which code is written can greatly improve readability through things like bracket placement, variable naming, and line indenting.  It also helps with consistency, so that the same style of code is used throughout the entire project and across different files.  This way, when someone else looks at your code, they do not have to try to adapt to your unique and potentially confusing coding style - they are already familiar with the standard.</p>
+
+<p>My experience with ESLint, one of many coding standardizing tools, has been very positive.  ESLint quickly scans your entire code and gives descriptive messages about things that should be fixed.  It eliminates the need to refer to a document or memorize rules yourself.  ESLint not only comments about code aesthetics, but also about conciseness and efficiency.  For example, unused variables will be highlighted and recommended to be deleted, since those variables will only clutter your code and take up unnecessary computer memory.  It also discourages the use of <code class="language-plaintext highlighter-rouge">var</code> and recommends <code class="language-plaintext highlighter-rouge">let</code> or <code class="language-plaintext highlighter-rouge">const</code> instead, since those variables can have block scope.  I see ESLint as more than just a code formatting tool, and more of a tool to enforce overall best coding practices.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
